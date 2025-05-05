@@ -30,6 +30,8 @@ import random
 import ffmpeg
 import logging 
 import yt_dlp
+from yt_dlp import YoutubeDL
+import yt_dlp as youtube_dl
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 from base64 import b64encode, b64decode
