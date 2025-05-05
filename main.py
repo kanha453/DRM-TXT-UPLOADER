@@ -210,7 +210,7 @@ async def upload(bot: Client, m: Message):
     else:
         x = y 
 
-    path = f"./downloads/{m.chat.id}"
+    ##path = f"./downloads/{m.chat.id}"
   
     pdf_count = 0
     img_count = 0
