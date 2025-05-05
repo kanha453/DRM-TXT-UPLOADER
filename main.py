@@ -285,7 +285,7 @@ async def upload(bot: Client, m: Message):
     credit = "️[@SONICKUWALSSCBOT](https://t.me/SONICKUWALUPDATEKANHA)"
     if raw_text3 == '1':
         CR = '[@SONICKUWALSSCBOT](https://t.me/SONICKUWALUPDATEKANHA)'
-    elif raw_text3
+    elif raw_text3:
         try:
             text, link = raw_text3.split(',')
             CR = f'[{text.strip()}]({link.strip()})'
