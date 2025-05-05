@@ -401,11 +401,11 @@ async def upload(bot: Client, m: Message):
                 name = f'{str(count).zfill(3)}) {name1[:60]}'
                 cmd = f'yt-dlp -o "{name}.mp4" "{url}"'
 
-            elif "https://transcoded-videos-v2.classx.co.in/videos/rozgar-data/" in url:
-                url = url.replace("https://transcoded-videos-v2.classx.co.in/videos/rozgar-data/", "")
-                name1 = links[i][0].replace("\t", "").replace(":", "").replace("/", "").replace("+", "").replace("#", "").replace("|", "").replace("@", "@").replace("*", "").replace(".", "").replace("https", "").replace("http", "").strip()
-                name = f'{str(count).zfill(3)}) {name1[:60]}'
-                cmd = f'yt-dlp -o "{name}.mp4" "{url}"'
+            ##elif "https://transcoded-videos-v2.classx.co.in/videos/rozgar-data/" in url:
+                ##url = url.replace("https://transcoded-videos-v2.classx.co.in/videos/rozgar-data/", "")
+                ##name1 = links[i][0].replace("\t", "").replace(":", "").replace("/", "").replace("+", "").replace("#", "").replace("|", "").replace("@", "@").replace("*", "").replace(".", "").replace("https", "").replace("http", "").strip()
+                ##name = f'{str(count).zfill(3)}) {name1[:60]}'
+                ##cmd = f'yt-dlp -o "{name}.mp4" "{url}"'
           
            
 
