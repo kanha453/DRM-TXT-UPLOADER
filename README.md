@@ -60,21 +60,21 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
 
 ## Deploy To Google Colab
 
-<a href="https://colab.research.google.com/github/Soninkuwal/DRM-TXT-UPLOADER/blob/main/DRM-TXT-UPLOADER.ipynb" target="_blank">
+<a href="https://colab.research.google.com/github/kanha453/DRM-TXT-UPLOADER/blob/main/DRM-TXT-UPLOADER.ipynb" target="_blank">
   <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
 </a>
 
 ## Deploy To Cloud Shell Editor
-<a target="/blank" href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/Soninkuwal/DRM-TXT-UPLOADER&tutorial=help/gcloud.md" >
+<a target="/blank" href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/kanha453/DRM-TXT-UPLOADER&tutorial=help/gcloud.md" >
   <img src="https://raw.githubusercontent.com/AshutoshGoswami24/text-leech-bot/main/.github/img/x.svg" alt="Deploy To Cloud Shell Editor" style="width:170px;"></a>
   
 ## Deploy To codespaces
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Soninkuwal/DRM-TXT-UPLOADER)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/kanha453/DRM-TXT-UPLOADER)
 
 ## Deploy To VPS
 ```
-git clone https://github.com/Soninkuwal/DRM-TXT-UPLOADER
+git clone https://github.com/kanha453/DRM-TXT-UPLOADER
 ```
 
 ```
@@ -109,4 +109,4 @@ sudo docker run -it --rm text-leech-bot-by-ashu
 
 ## Deploy To Render
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Tushar557845/ADVANCE-TXT-UPLOADER)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/kanha453/DRM-TXT-UPLOADER)
