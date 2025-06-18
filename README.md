@@ -40,6 +40,14 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
 
 
 
+## ✅ Pw Without Purchase Txt Extractor Bot
+
+🥳 Pw Without Purchase Txt Extractor Bot [Click Here](https://t.me/PwTxtExtractorBot)
+ 
+
+## Guide For Heroku Deployment 
+
+
 सर्वप्रथम vars.py file में api id , api hash ,bot token Fill करें।
 उसके बाद heroku में github को connect करके इस repo को conneect कर ले ।
 इसके बाद heroku setting में जाकर फिर से api id , api hash,bot token डालें। और फिर deploy कर दे।
@@ -48,6 +56,50 @@ deploy करने के बाद उसी deploy वाली repo के s
 Buildpack - https://github.com/amivin/aria2-heroku.git
 https://github.com/amivin/aria2-heroku.git
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
+
+
+## Deploy To Google Colab
+
+<a href="https://colab.research.google.com/github/Soninkuwal/DRM-TXT-UPLOADER/blob/main/DRM-TXT-UPLOADER.ipynb" target="_blank">
+  <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
+</a>
+
+## Deploy To Cloud Shell Editor
+<a target="/blank" href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/Soninkuwal/DRM-TXT-UPLOADER&tutorial=help/gcloud.md" >
+  <img src="https://raw.githubusercontent.com/AshutoshGoswami24/text-leech-bot/main/.github/img/x.svg" alt="Deploy To Cloud Shell Editor" style="width:170px;"></a>
+  
+## Deploy To codespaces
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Soninkuwal/DRM-TXT-UPLOADER)
+
+## Deploy To VPS
+```
+git clone https://github.com/Soninkuwal/DRM-TXT-UPLOADER
+```
+
+```
+cd DRM-TXT-UPLOADER
+```
+
+```
+nano modules/vars.py
+```
+
+USE : `ctrl + s` : FOR SAVE | `ctrl + x` : FOR EXIT
+
+```
+sudo apt install docker.io -y
+```
+```
+sudo docker build -t text-leech-bot-by-ashu .
+```
+
+```
+sudo docker run -it --rm text-leech-bot-by-ashu
+```
+
+
+
 
 ## Add all (3) Buildpack in heroku.
 
